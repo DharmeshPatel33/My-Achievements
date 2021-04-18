@@ -5,7 +5,7 @@
     1. #### [Deep Learning Specialization](#Deep-Learning-Certificate)
     2. #### [Data Structures and Algorithms Specialization](#Data-Structures-and-Algorithms-Certificate)
     3. #### [Python for Everybody Specialization](#Python-for-Everybody-Certificate)
-2. ### [Data Engineering with Google Cloud Professional Certificate](#Data-Engineering with-Google-Cloud-Professional-Certificate-(_In-Progress_))
+2. ### [Data Engineering with Google Cloud Professional Certificate](#data-engineering-with-google-cloud-professional-certificate-in-progress)
 
 ## Specializations
 1. ### Deep Learning [Certificate](../main/Certificates/Specialization/Deep%20Learning.pdf)
