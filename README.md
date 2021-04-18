@@ -2,11 +2,10 @@
 
 ## Table of Contents
 1. ### Specializations Courses
-    1. ### [Deep Learning](#Deep-Learning-Certificate)
-    2. ### [Data Structures and Algorithms](#Data-Structures-and-Algorithms-Certificate)
-    3. ### [Python for Everybody](#Python-for-Everybody-Certificate)
-1. second
-1. third
+    1. #### [Deep Learning Specialization](#Deep-Learning-Certificate)
+    2. #### [Data Structures and Algorithms Specialization](#Data-Structures-and-Algorithms-Certificate)
+    3. #### [Python for Everybody Specialization](#Python-for-Everybody-Certificate)
+2. ### [Data Engineering with Google Cloud Professional Certificate](#Data-Engineering with-Google-Cloud-Professional-Certificate-(_In-Progress_))
 
 ## Specializations
 1. ### Deep Learning [Certificate](../main/Certificates/Specialization/Deep%20Learning.pdf)
@@ -44,3 +43,11 @@
        > This course introduced the basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort.
     5. #### Capstone: Retrieving, Processing, and Visualizing Data with Python [Certificate](../main/Certificates/Capstone%20-%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.pdf)
        > In the capstone, I built a series of applications to retrieve, process and visualize data using Python.   The projects will involve all the elements of the specialization.
+
+
+## Data Engineering with Google Cloud Professional Certificate (_In Progress_)
+1. ### Google Cloud Platform Big Data and Machine Learning Fundamentals [Certificate](../main/Certificates/Google%20Cloud%20Platform%20Big%20Data%20and%20Machine%20Learning%20Fundamentals.pdf)
+2. ### Modernizing Data Lakes and Data Warehouses with GCP [Certificate](../main/Certificates/Modernizing%20Data%20Lakes%20and%20Data%20Warehouses%20with%20GCP.pdf)
+3. ### Building Batch Data Pipelines on GCP (_In Progress_)
+4. ### Building Resilient Streaming Analytics Systems on GCP (_In Progress_)
+5. ### Smart Analytics, Machine Learning, and AI on GCP (_In Progress_)
