@@ -2,9 +2,9 @@
 
 ## Table of Contents
 1. ### Specializations Courses
-    1. ### [Deep Learning](#Deep-Learning)
-    1. Data Structures and Algorithms
-    1. Python for Everybody
+    1. ### [Deep Learning](#Deep-Learning-Certificate)
+    2. ### [Data Structures and Algorithms](#Data-Structures-and-Algorithms-Certificate)
+    3. ### [Python for Everybody](#Python-for-Everybody-Certificate)
 1. second
 1. third
 
