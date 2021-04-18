@@ -24,5 +24,15 @@
     5. #### Capstone: Retrieving, Processing, and Visualizing Data with Python
        > In the capstone, I built a series of applications to retrieve, process and visualize data using Python.   The projects will involve all the elements of the specialization.
 3. ### Data Structures and Algorithms
-
-### Deep Learning
+    1. #### Algorithmic Toolbox
+        > The course covered basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. 
+    2. #### Data Structures
+        > In this course, I learned how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments.
+    3. #### Algorithms on Graphs
+        > In this course, I first learned what a graph is and what are some of the most important properties. Then  learned several ways to traverse graphs and how do useful things while traversing the graph in some order.
+    4. #### Algorithms on Strings
+        > World and internet is full of textual information. We search for information using textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science.
+    5. #### Advanced Algorithms and Complexity
+        > still now, I learned the basic algorithms now and are ready to step into the area of more complex problems and algorithms to solve them. Advanced algorithms build upon basic ones and use new ideas.
+    6. #### Genome Assembly Programming Challenge
+        > In Spring 2011, thousands of people in Germany were hospitalized with a deadly disease that started as food poisoning with bloody diarrhea and often led to kidney failure.
