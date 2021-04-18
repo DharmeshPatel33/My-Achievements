@@ -2,7 +2,7 @@
 
 ## Specializations
 1. ### Deep Learning
-   1. #### Neural Networks and Deep Learning [![alt](certificate)](https://link)
+   1. #### Neural Networks and Deep Learning [![alt](certificate)](../blob/main/Certificates/Specialization/DS%20and%20Algo.pdf)
        > In the first course of the Deep Learning Specialization, I studied the foundational concept of neural networks and deep learning. 
    1. #### Improving Deep Neural Networks: Hyperparameter     Tuning, Regularization and Optimization
        > In the second course of the Deep Learning Specialization, I studied open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
